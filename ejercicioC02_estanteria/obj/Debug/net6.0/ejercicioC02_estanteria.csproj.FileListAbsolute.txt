@@ -1,0 +1,5 @@
+D:\UTN Terciario\Programacion 2 E2\ejercicios_laboratorio_2_2022\ejercicioC02_estanteria\obj\Debug\net6.0\ejercicioC02_estanteria.csproj.AssemblyReference.cache
+D:\UTN Terciario\Programacion 2 E2\ejercicios_laboratorio_2_2022\ejercicioC02_estanteria\obj\Debug\net6.0\ejercicioC02_estanteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN Terciario\Programacion 2 E2\ejercicios_laboratorio_2_2022\ejercicioC02_estanteria\obj\Debug\net6.0\ejercicioC02_estanteria.AssemblyInfoInputs.cache
+D:\UTN Terciario\Programacion 2 E2\ejercicios_laboratorio_2_2022\ejercicioC02_estanteria\obj\Debug\net6.0\ejercicioC02_estanteria.AssemblyInfo.cs
+D:\UTN Terciario\Programacion 2 E2\ejercicios_laboratorio_2_2022\ejercicioC02_estanteria\obj\Debug\net6.0\ejercicioC02_estanteria.csproj.CoreCompileInputs.cache
